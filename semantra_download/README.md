@@ -1,5 +1,9 @@
 # README: Semantra Download Utility
 
+
+https://github.com/user-attachments/assets/0deb6b20-7ce1-4470-86bd-317907f527d6
+
+
 This utility provides a simple way to search your indexed documents (via Semantra) and save the semantic results to a local file.
 
 ## Prerequisites
